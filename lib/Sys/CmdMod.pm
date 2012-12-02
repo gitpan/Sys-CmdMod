@@ -1,6 +1,6 @@
 package Sys::CmdMod;
 {
-  $Sys::CmdMod::VERSION = '0.16';
+  $Sys::CmdMod::VERSION = '0.17';
 }
 BEGIN {
   $Sys::CmdMod::AUTHORITY = 'cpan:TEX';
@@ -23,7 +23,7 @@ use Try::Tiny;
 # extends ...
 # has ...
 # with ...
-with 'Config::Tree::OrderedPlugins' => { -version => 0.18 };
+with 'Config::Yak::OrderedPlugins' => { -version => 0.18 };
 
 sub _plugin_base_class { return 'Sys::CmdMod::Plugin'; }
 # initializers ...

@@ -1,6 +1,6 @@
 package Sys::CmdMod::Plugin::Eatmydata;
 {
-  $Sys::CmdMod::Plugin::Eatmydata::VERSION = '0.16';
+  $Sys::CmdMod::Plugin::Eatmydata::VERSION = '0.17';
 }
 BEGIN {
   $Sys::CmdMod::Plugin::Eatmydata::AUTHORITY = 'cpan:TEX';

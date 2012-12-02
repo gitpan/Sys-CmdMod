@@ -1,6 +1,6 @@
 package Sys::CmdMod::Plugin::Nice;
 {
-  $Sys::CmdMod::Plugin::Nice::VERSION = '0.16';
+  $Sys::CmdMod::Plugin::Nice::VERSION = '0.17';
 }
 BEGIN {
   $Sys::CmdMod::Plugin::Nice::AUTHORITY = 'cpan:TEX';

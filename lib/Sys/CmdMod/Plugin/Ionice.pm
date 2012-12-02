@@ -1,6 +1,6 @@
 package Sys::CmdMod::Plugin::Ionice;
 {
-  $Sys::CmdMod::Plugin::Ionice::VERSION = '0.16';
+  $Sys::CmdMod::Plugin::Ionice::VERSION = '0.17';
 }
 BEGIN {
   $Sys::CmdMod::Plugin::Ionice::AUTHORITY = 'cpan:TEX';

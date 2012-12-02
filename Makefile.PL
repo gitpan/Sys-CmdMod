@@ -24,7 +24,7 @@ my %WriteMakefileArgs = (
   "LICENSE" => "perl",
   "NAME" => "Sys::CmdMod",
   "PREREQ_PM" => {
-    "Config::Tree::OrderedPlugins" => "0.18",
+    "Config::Yak::OrderedPlugins" => "0.18",
     "File::Blarf" => 0,
     "Linux::ForkAsync" => 0,
     "Log::Tree::RequiredLogger" => 0,
@@ -36,7 +36,7 @@ my %WriteMakefileArgs = (
     "mro" => 0,
     "namespace::autoclean" => 0
   },
-  "VERSION" => "0.16",
+  "VERSION" => "0.17",
   "test" => {
     "TESTS" => "t/*.t"
   }

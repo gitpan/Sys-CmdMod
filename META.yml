@@ -16,7 +16,7 @@ meta-spec:
   version: 1.4
 name: Sys-CmdMod
 requires:
-  Config::Tree::OrderedPlugins: 0.18
+  Config::Yak::OrderedPlugins: 0.18
   File::Blarf: 0
   Linux::ForkAsync: 0
   Log::Tree::RequiredLogger: 0
@@ -31,5 +31,5 @@ requires:
 resources:
   bugtracker: https://github.com/gittex/Sys-CmdMod/issues
   repository: git://github.com/gittex/Sys-CmdMod.git
-version: 0.16
+version: 0.17
 x_authority: cpan:TEX
