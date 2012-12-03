@@ -28,9 +28,9 @@
          "requires" : {
             "Config::Yak::OrderedPlugins" : "0.18",
             "File::Blarf" : "0",
-            "Linux::ForkAsync" : "0",
             "Log::Tree::RequiredLogger" : "0",
             "Moose" : "0",
+            "Sys::ForkAsync" : "0",
             "Sys::Run" : "0",
             "Try::Tiny" : "0",
             "Version::Compare" : "0",
@@ -59,7 +59,7 @@
          "web" : "https://github.com/gittex/Sys-CmdMod"
       }
    },
-   "version" : "0.17",
+   "version" : "0.18",
    "x_authority" : "cpan:TEX"
 }
 

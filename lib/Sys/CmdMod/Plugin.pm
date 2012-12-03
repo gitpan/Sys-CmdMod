@@ -1,6 +1,6 @@
 package Sys::CmdMod::Plugin;
 {
-  $Sys::CmdMod::Plugin::VERSION = '0.17';
+  $Sys::CmdMod::Plugin::VERSION = '0.18';
 }
 BEGIN {
   $Sys::CmdMod::Plugin::AUTHORITY = 'cpan:TEX';
